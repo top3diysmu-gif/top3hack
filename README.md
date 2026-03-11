@@ -65,3 +65,5 @@ WIRING
 ⚙️SETTINGS
 1)HEADLESS- do ap with name-Pocket puter and password "deveclipse" (ts is my friend)
 
+OTHERS!!
+TO EXIT TO MAIN MENU HOLD OK BUTTON
